@@ -1,8 +1,6 @@
 # Carlos Brignardello
 
-<img width="500" src="https://media3.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif?cid=790b761134cef07aad1845386ac7127501c21d4ac1325ecb&rid=giphy.gif&ct=g" alt="github">
-
-### Sobre mi:
+### Sobre mi
 
 - :hearts: Me encanta ayudar a crecer a los demas, el desarrollo de software, el arte y la cocina. 
 - 🔭 Soy un desarrollador Full Stack Django - Vue.
@@ -11,6 +9,10 @@
 - 🤔 Creo firmemente que lo mas importante de un trabajo es el respeto y el ambiente de trabajo.
 - 💬 Puedes pedirme ayuda si crees que te la puedo dar (●'◡'●).
 
+### Contenido
+https://vrigna.notion.site/b31d1b4bdaa24648a38906ebf9ae9900?v=990dafc1afc845abb7c788e6340029f5
+
+<img width="400" src="https://media3.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif?cid=790b761134cef07aad1845386ac7127501c21d4ac1325ecb&rid=giphy.gif&ct=g" alt="github">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrigna&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="Carlos" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrigna&show_icons=true&locale=en&theme=tokyonight" alt="Carlos" /></p>
 
